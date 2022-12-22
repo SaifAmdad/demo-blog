@@ -282,6 +282,10 @@ footer{
     padding: 10px;
     text-align: center;
 }
+footer a {
+    text-decoration: none;
+    color: white;
+}
 
 /* ************* media start for 600px +  ********** */
 
